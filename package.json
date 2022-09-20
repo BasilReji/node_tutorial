@@ -1,0 +1,23 @@
+{
+  "name": "node_tutorial",
+  "version": "1.0.0",
+  "description": "Node Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://BasilReji@github.com/BasilReji/node_tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BasilReji/node_tutorial/issues"
+  },
+  "homepage": "https://github.com/BasilReji/node_tutorial#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
